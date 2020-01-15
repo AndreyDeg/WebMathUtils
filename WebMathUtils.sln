@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMathUtils", "WebMathUtils\WebMathUtils.csproj", "{987799FD-7FFD-466B-8A02-1B226843B04D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D0B0B35-5275-4539-A214-D765A3E06AE7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987799FD-7FFD-466B-8A02-1B226843B04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987799FD-7FFD-466B-8A02-1B226843B04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987799FD-7FFD-466B-8A02-1B226843B04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987799FD-7FFD-466B-8A02-1B226843B04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B04DB9-17E1-4540-ACCF-7C4EF37951EC}
+	EndGlobalSection
+EndGlobal
